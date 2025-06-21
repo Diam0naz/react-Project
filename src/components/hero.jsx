@@ -1,5 +1,5 @@
 import React from "react";
-import background from "/home/user/Documents/bankApp/src/assets/images/bg-intro-desktop.svg";
+import background from "/src/assets/images/bg-intro-desktop.svg";
 import heroPic from "/src/assets/images/image-mockups.png";
 import heroPic2 from "/src/assets/images/bg-intro-mobile.svg";
 
