@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+   {/* <div className="overflow-hidden relative z-20 w-screen h-[750px] flex justify-around items-center">
+        <img
+          src={background}
+          alt=""
+          className="absolute top-0 right-0 translate-x-[20%] -translate-y-[25%]"
+        />
+
+        <div className="flex flex-col gap-10 leading-relaxed">
+          <h1 className="text-6xl font-light text-slate-800 ">
+            {" "}
+            Next generation <br /> digital banking
+          </h1>
+          <p className="text-lg font-light text-slate-400 ">
+            Take your financial life online. Your Easybank account <br /> will
+            be a one-stop-shop for spending, saving, <br /> budgeting,
+            investing, and much more.
+          </p>
+          <button className="w-44 h-12 grid place-items-center text-white hover:brightness-105 rounded-r-full rounded-l-full bg-gradient-to-r from-green-400 to-blue-300 font-semibold">
+            Request Invite
+          </button>
+        </div>
+        <img src={heroPic} alt="" className="z-0 scale-125 translate-x-[33%]" />
+      </div> */}
